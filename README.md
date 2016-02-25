@@ -15,6 +15,8 @@ $ go install
 
 `gradle_release_notes` is single command-line application.
 
+Open Gradle Release Notes page at browser.
+
 ```
 $ gradle_release_notes -v 2.11
 ```
